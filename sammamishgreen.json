@@ -1,0 +1,12 @@
+{
+"name": "SammamishGreen Regenerative Community Map",
+"url": "https://sammamishgreen.org",
+"tagline": "Mapping a Thriving Future for the Greater Samammish Valley Community",
+"mission": "The SammamishGreen Regenerative Community Map features local businesses, farms, natural areas, green infrastucture, landscape & stream restoration, recreation locations, and other sites 'planting the seeds' of a Regenerative Future for the Sammamish River Watershed communities, in and around the Sammamish Valley.",
+"location": "Samammish Valley, WA, USA",
+"nodeTypes" : "community",
+"logo": "https://sammamishgreen.org/static/css/images/sammamishgreen.png",
+"feed": "",
+"lat": "47.7111",
+"lon": " -122.143"
+}
